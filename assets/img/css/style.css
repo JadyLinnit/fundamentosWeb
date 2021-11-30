@@ -1,4 +1,9 @@
 /* Estilos da página index*/
+.fundo{
+    background: #f0dce8;
+    min-height: 100vh;
+}
+
 .center {text-align: center;}
 
 .justify{
@@ -16,9 +21,13 @@
     
 }
 
+
 .menu li a{ 
     text-decoration: none;
     color: black;
+    background: #e6a1ca;
+    font-style: oblique;
+
 }
 .menu li a:hover {
     color: grey;
@@ -40,3 +49,6 @@
 
 
 /* Estilo da página contato*/
+.ml-50{
+    margin-left: 50px;
+}
